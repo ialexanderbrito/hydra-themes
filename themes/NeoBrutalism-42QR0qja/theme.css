@@ -979,7 +979,6 @@ body {
     -webkit-box-orient: vertical;
     overflow: hidden;
     -webkit-line-clamp: 3;
-    line-clamp: 3;
 }
 
 .game-item__meta {
